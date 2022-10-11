@@ -1,6 +1,2 @@
-este es un mensaje especial
-saludos 
-tengo 2o años de edad 
-nacionalidad grande
-soy algo alto para mi vida 
-soy nuevo
+primer archivos comiendo de git
+esta es la segunda modificaccion por me
